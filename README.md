@@ -2,9 +2,9 @@
 
 ProPublica provides an application programming interface (API) to the search engine and database that powers Nonprofit Explorer.
 
-[![Latest Stable Version](https://poser.pugx.org/kevinem/lime-light-php/v/stable?format=flat-square)](https://packagist.org/packages/kevinem/nonprofit-explorer-php)
-[![License](https://poser.pugx.org/kevinem/lime-light-php/license?format=flat-square)](https://packagist.org/packages/kevinem/nonprofit-explorer-php)
-[![Build Status](https://travis-ci.org/kevinem/lime-light-php.svg?branch=master)](https://travis-ci.org/kevinem/nonprofit-explorer-php)
+[![Latest Stable Version](https://poser.pugx.org/kevinem/nonprofit-explorer-php/v/stable?format=flat-square)](https://packagist.org/packages/kevinem/nonprofit-explorer-php)
+[![License](https://poser.pugx.org/kevinem/nonprofit-explorer-php/license?format=flat-square)](https://packagist.org/packages/kevinem/nonprofit-explorer-php)
+[![Build Status](https://travis-ci.org/kevinem/nonprofit-explorer-php.svg?branch=master)](https://travis-ci.org/kevinem/nonprofit-explorer-php)
 
 ## Installation
 
